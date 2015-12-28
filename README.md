@@ -40,6 +40,17 @@ The above tag will render as a placeholder 300 pixels wide and 200 pixels tall.
 
 To avoid console 404 errors, you can use ``data-src`` instead of ``src``.
 
+## Forked Version
+
+Forked version allows for the options of no text.
+
+```html
+
+<img src="holder.js/300x200?&noText=true&bg=666666">
+
+```
+
+
 ### Programmatic usage
 
 To programmatically insert a placeholder use the `run()` API:
