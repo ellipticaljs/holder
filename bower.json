@@ -2,7 +2,7 @@
   "name": "elliptical-holderjs",
   "main": "holder.js",
   "license": "MIT",
-  "version":"2.9.1",
+  "version":"2.9.2",
   "ignore": [
     "**/.*",
     "node_modules",

@@ -642,6 +642,10 @@ return /******/ (function(modules) { // webpackBootstrap
 	            holder.text = options.text;
 	        }
 
+	        if(options.noText){
+	            holder.text=' ';
+	        }
+
 	        if (options.textmode) {
 	            holder.textmode = options.textmode;
 	        }
